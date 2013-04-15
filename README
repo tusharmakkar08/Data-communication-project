@@ -1,0 +1,17 @@
+			Data communication project
+-------------------------------------------------------------------------
+
+- Error Detection 
+	1. Parity Check
+	2. 2 Dimensional Parity Check
+	3. Checksum
+
+- Error Correction
+	1. Hammig Code
+
+- Time  Division Multiplexing
+
+- Block Coding
+
+
+P.S : Termcolor module is used to colour up the menu in python
